@@ -27,9 +27,8 @@
 }
 #header1-1 P {
   color: #28324e;
-}
-#header4-2 P {
-  color: #000000;
+  font-size: 20px;
+  text-align: left;
 }
 
 #dropdown-menu-9 .hide-buttons [data-button] {
