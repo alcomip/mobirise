@@ -11,7 +11,8 @@
         "#5c0100",
         "#ff0000",
         "#f7f102",
-        "#00ff4a"
+        "#00ff4a",
+        "#878787"
       ]
     },
     "versionFirst": "4.3.4",
@@ -44,10 +45,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#878787"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#c2c2c2"
+              "background": "#7d7d7d"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -62,7 +63,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#878787",
             "fontSize": "1.2",
             "fontName": {
               "name": "Open Sans",
@@ -179,10 +180,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#878787"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#c2c2c2"
+              "background": "#7d7d7d"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -197,7 +198,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#878787",
             "fontSize": "1.2",
             "fontName": {
               "name": "Open Sans",
@@ -318,10 +319,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#878787"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#c2c2c2"
+              "background": "#7d7d7d"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -336,7 +337,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#878787",
             "fontSize": "1.2",
             "fontName": {
               "name": "Open Sans",
@@ -454,10 +455,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#878787"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#c2c2c2"
+              "background": "#7d7d7d"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -472,7 +473,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#878787",
             "fontSize": "1.2",
             "fontName": {
               "name": "Open Sans",
@@ -591,10 +592,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#878787"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#c2c2c2"
+              "background": "#7d7d7d"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -609,7 +610,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#878787",
             "fontSize": "1.2",
             "fontName": {
               "name": "Open Sans",
@@ -728,10 +729,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#878787"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#c2c2c2"
+              "background": "#7d7d7d"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -746,7 +747,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#878787",
             "fontSize": "1.2",
             "fontName": {
               "name": "Open Sans",
@@ -864,10 +865,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#878787"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#c2c2c2"
+              "background": "#7d7d7d"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -882,7 +883,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#878787",
             "fontSize": "1.2",
             "fontName": {
               "name": "Open Sans",
@@ -1001,10 +1002,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#878787"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#c2c2c2"
+              "background": "#7d7d7d"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1019,7 +1020,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#878787",
             "fontSize": "1.2",
             "fontName": {
               "name": "Open Sans",
