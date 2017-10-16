@@ -10,7 +10,8 @@
         "#979797",
         "#5c0100",
         "#ff0000",
-        "#f7f102"
+        "#f7f102",
+        "#00ff4a"
       ]
     },
     "versionFirst": "4.3.4",
@@ -124,7 +125,7 @@
               "text-align": "center"
             },
             "P": {
-              "color": "#7ac673",
+              "color": "#00ff4a",
               "font-size": "20px",
               "text-align": "left"
             }
