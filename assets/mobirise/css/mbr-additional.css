@@ -1,0 +1,95 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+#dropdown-menu-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+  background: #cccccc;
+}
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+  background: #c2c2c2;
+}
+#dropdown-menu-0 .navbar-toggler {
+  color: #000000;
+}
+#header1-1 H1 {
+  color: #000000;
+  text-align: center;
+}
+#header1-1 P {
+  color: #28324e;
+}
+
+#dropdown-menu-9 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-9 .nav .link,
+#dropdown-menu-9 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-9 .navbar,
+#dropdown-menu-9 .dropdown-menu {
+  background: #cccccc;
+}
+#dropdown-menu-9 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-9 .dropdown-menu a:hover,
+#dropdown-menu-9 .dropdown-menu a:focus {
+  background: #c2c2c2;
+}
+#dropdown-menu-9 .navbar-toggler {
+  color: #000000;
+}
+#msg-box4-d .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-d .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-d .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-d .mbr-article P {
+  text-align: left;
+}
+
+#dropdown-menu-e .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-e .nav .link,
+#dropdown-menu-e .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-e .navbar,
+#dropdown-menu-e .dropdown-menu {
+  background: #cccccc;
+}
+#dropdown-menu-e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-e .dropdown-menu a:hover,
+#dropdown-menu-e .dropdown-menu a:focus {
+  background: #c2c2c2;
+}
+#dropdown-menu-e .navbar-toggler {
+  color: #000000;
+}
+#msg-box4-f .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-f .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-f .mbr-article {
+  color: #ffffff;
+}
