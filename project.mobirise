@@ -106,12 +106,12 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": 0.5
           },
           "title": "РЕМОНТ СЛОЖНОЙ АВТОЭЛЕКТРОНИКИ",
-          "text": "Компания Avtochip23 - это команда знающая свое дело, мы занимаемся ремонтом автоэлектроники более 10 лет, осуществляем качественную и профессиональную диагностику систем иномарок, осуществляем ремонт, замену и программирование электронных блоков управления. Также занимаеся Чиптюнингом авто - это увеличение мощности, уменьшение расхода топлива, улучшение динамики, отключение систем таких как EGR DPF EVRO4 ADblu<br>",
+          "text": "Компания Avtochip23 &nbsp; - &nbsp; это команда знающая свое дело, мы занимаемся ремонтом автоэлектроники более 10 лет, осуществляем &nbsp; &nbsp; качественную &nbsp; &nbsp; и &nbsp; &nbsp; профессиональную диагностику &nbsp; систем &nbsp; иномарок, &nbsp; осуществляем &nbsp; ремонт, замену &nbsp; &nbsp; &nbsp;и &nbsp; &nbsp; &nbsp;программирование &nbsp; &nbsp;электронных &nbsp; блоков управления. &nbsp;Также занимаеся Чиптюнингом авто &nbsp; &nbsp; - &nbsp; это увеличение &nbsp; &nbsp;мощности, &nbsp; &nbsp;уменьшение &nbsp; &nbsp;расхода &nbsp;топлива, улучшение &nbsp; &nbsp;динамики, &nbsp; &nbsp;отключение &nbsp; таких &nbsp; систем &nbsp; как<br> EGR DPF EVRO4 ADblu<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
