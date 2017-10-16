@@ -7,11 +7,14 @@
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
-        "#979797"
+        "#979797",
+        "#5c0100",
+        "#ff0000",
+        "#f7f102"
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "4.3.4",
     "favicon": "",
     "noImageResize": ""
@@ -118,7 +121,7 @@
               "text-align": "center"
             },
             "P": {
-              "color": "#28324e",
+              "color": "#ff0000",
               "font-size": "20px",
               "text-align": "left"
             }
