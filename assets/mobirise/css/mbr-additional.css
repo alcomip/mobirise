@@ -25,8 +25,9 @@
   font-size: 8px;
 }
 #header1-1 H1 {
-  color: #ff0000;
-  text-align: center;
+  color: #ffffff;
+  text-align: left;
+  font-size: 48px;
 }
 #header1-1 P {
   color: #00ff4a;
@@ -46,6 +47,8 @@
 }
 #content5-1g .mbr-article P {
   color: #000000;
+  font-size: 19px;
+  text-align: center;
 }
 
 #dropdown-menu-9 .hide-buttons [data-button] {
