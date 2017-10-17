@@ -382,3 +382,38 @@
 #msg-box4-19 .mbr-article {
   color: #ffffff;
 }
+
+#dropdown-menu-1a .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1a .nav .link,
+#dropdown-menu-1a .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-1a .navbar,
+#dropdown-menu-1a .dropdown-menu {
+  background: #878787;
+}
+#dropdown-menu-1a .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1a .dropdown-menu a:hover,
+#dropdown-menu-1a .dropdown-menu a:focus {
+  background: #7d7d7d;
+}
+#dropdown-menu-1a .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-1a .btn {
+  font-size: 8px;
+}
+#msg-box4-1c .mbr-header__text {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box4-1c .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1c .mbr-article {
+  color: #ffffff;
+}
