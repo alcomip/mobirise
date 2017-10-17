@@ -206,7 +206,7 @@
             }
           },
           "text1": "<b>Адрес:</b><br>Краснодар,<br>Ростовское шоссе 17км<br>ул. Сиреневая 371<br><br><b>Контакты:</b><br>\nEmail: alcomip@rambler.ru<br>тел. 8 (918) 977 78 78<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><b>Мы в Контакте:</b></p><ul class=\"mbr-contacts__list\"><li>http://vk.com/club_alcom</li></ul><p><br></p><p><b>Skype</b>:</p><p>alcomip</p>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>Мы в Контакте:</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://vk.com/club_alcom\" target=\"_blank\">http://vk.com/club_alcom</a></li></ul><p><br></p><p><b>Skype</b>:</p><p>alcomip</p>",
           "_tags": [
             "Theme"
           ],
