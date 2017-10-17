@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.avtochip23.ru",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1303,7 +1303,7 @@
           },
           "headerAlign": "center",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">на главную</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">на главную</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-11"
         }
@@ -1440,7 +1440,7 @@
           },
           "headerAlign": "center",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">на главную</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">на главную</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-16"
         }
@@ -1577,7 +1577,7 @@
           },
           "headerAlign": "center",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">на главную</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">на главную</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-19"
         }
@@ -1696,7 +1696,7 @@
             }
           },
           "title": "AdBlue",
-          "text": "<p>Мы поможем Вам деактивировать систему SCR (Отключить мочевину (Adblue)) на:\n</p><p>Mercedes, VW, VOLVO, MAN, IVECO, Scania, DAF, Renault.\n</p><p>&nbsp;\n</p><p>Отключая систему SCR, Вы эксплуатируйте автомобиль без потери мощности, без повышения расхода топлива, без кодов неисправностей. Деактивация системы SCR – это обратимый процесс, в случае необходимости работоспособность системы полностью восстанавливается.</p>",
+          "text": "<p>Мы поможем Вам деактивировать систему SCR </p><p>(Отключить мочевину (Adblue)) на:</p><p>Mercedes, VW, VOLVO, MAN, IVECO, Scania, DAF, Renault.\n</p><p>&nbsp;\n</p><p>Отключая систему SCR, Вы эксплуатируйте автомобиль без потери мощности, без повышения расхода топлива, без кодов неисправностей. Деактивация системы SCR – это обратимый процесс, в случае необходимости работоспособность системы полностью восстанавливается.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1710,11 +1710,14 @@
             },
             ".mbr-article": {
               "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
             }
           },
           "headerAlign": "center",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">на главную</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">на главную</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1c"
         }
@@ -1851,7 +1854,7 @@
           },
           "headerAlign": "center",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">на главную</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">на главную</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1f"
         }

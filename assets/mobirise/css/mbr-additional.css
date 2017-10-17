@@ -434,6 +434,9 @@
 #msg-box4-1c .mbr-article {
   color: #ffffff;
 }
+#msg-box4-1c .mbr-article P {
+  text-align: center;
+}
 
 #dropdown-menu-1d .hide-buttons [data-button] {
   display: none !important;
