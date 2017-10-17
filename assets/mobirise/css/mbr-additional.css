@@ -33,6 +33,20 @@
   font-size: 20px;
   text-align: left;
 }
+#content5-1g .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-1g .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1g .mbr-article {
+  color: #fff;
+}
+#content5-1g .mbr-article P {
+  color: #000000;
+}
 
 #dropdown-menu-9 .hide-buttons [data-button] {
   display: none !important;
