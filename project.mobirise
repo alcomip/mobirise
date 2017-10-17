@@ -196,12 +196,13 @@
             "bgColorRadio": false,
             "bgColor": "#3c3c3c",
             "overlay": true,
-            "overlayColor": "#3C3C3C",
+            "overlayColor": "#ffffff",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "45.167958, 39.089128",
+              "placeId": "ChIJWz6lxvVB8EAR-tuVqqW4_Ew",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
           "text1": "<b>Адрес:</b><br>Краснодар,<br>Ростовское шоссе 17км<br>ул. Сиреневая 371<br><br><b>Контакты:</b><br>\nEmail: alcomip@rambler.ru<br>тел. 8 (918) 977 78 78<br>",
@@ -210,7 +211,15 @@
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-7"
+          "_anchor": "contacts2-7",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },

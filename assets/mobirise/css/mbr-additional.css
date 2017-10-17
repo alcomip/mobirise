@@ -50,6 +50,12 @@
   font-size: 19px;
   text-align: center;
 }
+#contacts2-7 P {
+  color: #000000;
+}
+#contacts2-7 UL {
+  color: #000000;
+}
 
 #dropdown-menu-9 .hide-buttons [data-button] {
   display: none !important;
