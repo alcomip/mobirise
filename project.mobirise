@@ -96,7 +96,7 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "showArrow": true,
             "contentAlign": "left",
@@ -113,8 +113,8 @@
             "overlayColor": "#000000",
             "overlayOpacity": 0.5
           },
-          "title": "РЕМОНТ СЛОЖНОЙ <br><br>АВТОЭЛЕКТРОНИКИ",
-          "text": "<br><br><br><br><br><br><br><br><br>",
+          "title": "РЕМОНТ СЛОЖНОЙ АВТОЭЛЕКТРОНИКИ<div></div><div>\n</div><br><div>КОНТРАКТНЫЕ АВТОЗАПЧАСТИ\n</div><div></div><div>\n</div><br><div>СТО</div>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -130,6 +130,9 @@
             "P": {
               "color": "#00ff4a",
               "font-size": "20px",
+              "text-align": "left"
+            },
+            "DIV": {
               "text-align": "left"
             }
           }
